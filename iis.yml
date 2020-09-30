@@ -1,5 +1,5 @@
 ---
   - name: iis server playbook
-    hosts: {{ host }}
+    hosts: "{{ host }}"
     roles:
       - iis
