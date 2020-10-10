@@ -1,0 +1,10 @@
+---
+galaxy_info:
+  role_name: iis
+  author: Ashwin Krishnamurthi
+  description: Role to install IIS Server on Windows Server 2016
+  Company: Citizens Bank
+
+  galaxy_tags: []
+
+  dependencies: []
